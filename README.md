@@ -3,6 +3,7 @@
 The bijective variant found by Scott, D. A. of the Burrows-Wheeler transform written in Java. Also known as the 'Scottified' version of the transform.
 
 Version history:
+* v0.1.2 LCM is found more easily now in comparator 23-08-2018
 * v0.1.1 no calculation LCM anymore 22-08-2018
 * v0.1.0 first working version 19-08-2018
 * v0.0.3 improved sorting 10-08-2018
